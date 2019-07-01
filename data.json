@@ -1,0 +1,347 @@
+{
+    "response_code": 200,
+    "message": [
+        {
+            "_id": "5c89f2154b7e8310729a88ca",
+            "timestamp": "2019-03-14T06:17:57.465Z",
+            "text": "React has a bidirectional flow",
+            "correctAnswere": "NO",
+            "level": "L00_1",
+            "category": "C00_4",
+            "hintText": "",
+            "imageUrl": "1",
+            "__v": 0,
+            "tags": [],
+            "userAnsweredList": [
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-03-20T10:04:33.114Z",
+                    "uid": "5c920fa26de3ab1f22132e05",
+                    "_id": "5c9210316de3ab1f22132e38"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-04-18T08:40:35.216Z",
+                    "uid": "5bf54d77547a6d4676c8fb2e",
+                    "_id": "5cb83803bf8fa227056dd060"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-05-02T05:08:28.647Z",
+                    "uid": "5cb5714ab613b63608c8ce1f",
+                    "_id": "5cca7b4c620e459f098725a0"
+                }
+            ],
+            "userReportedList": []
+        },
+        {
+            "_id": "5c89f2154b7e8310729a88cb",
+            "timestamp": "2019-03-14T06:17:57.465Z",
+            "text": "React Native was launched in 2009 by Facebook",
+            "correctAnswere": "NO",
+            "level": "L00_1",
+            "category": "C00_4",
+            "hintText": "",
+            "imageUrl": "1",
+            "__v": 0,
+            "tags": [],
+            "userAnsweredList": [
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-03-20T10:04:36.254Z",
+                    "uid": "5c920fa26de3ab1f22132e05",
+                    "_id": "5c9210346de3ab1f22132e39"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-04-18T08:40:40.151Z",
+                    "uid": "5bf54d77547a6d4676c8fb2e",
+                    "_id": "5cb83808bf8fa227056dd063"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-05-02T05:08:30.728Z",
+                    "uid": "5cb5714ab613b63608c8ce1f",
+                    "_id": "5cca7b4e620e459f098725a3"
+                }
+            ],
+            "userReportedList": []
+        },
+        {
+            "_id": "5c89f2154b7e8310729a88cc",
+            "timestamp": "2019-03-14T06:17:57.465Z",
+            "text": "A Virtual DOM is created in React",
+            "correctAnswere": "YES",
+            "level": "L00_1",
+            "category": "C00_4",
+            "hintText": "",
+            "imageUrl": "1",
+            "__v": 0,
+            "tags": [],
+            "userAnsweredList": [
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-03-20T10:04:38.624Z",
+                    "uid": "5c920fa26de3ab1f22132e05",
+                    "_id": "5c9210366de3ab1f22132e3c"
+                },
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-04-18T08:40:44.091Z",
+                    "uid": "5bf54d77547a6d4676c8fb2e",
+                    "_id": "5cb8380cbf8fa227056dd066"
+                },
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-05-02T05:08:33.527Z",
+                    "uid": "5cb5714ab613b63608c8ce1f",
+                    "_id": "5cca7b51620e459f098725a6"
+                }
+            ],
+            "userReportedList": []
+        },
+        {
+            "_id": "5c89f2154b7e8310729a88cd",
+            "timestamp": "2019-03-14T06:17:57.465Z",
+            "text": "React is extremely lightweight and does not need any RAM",
+            "correctAnswere": "NO",
+            "level": "L00_1",
+            "category": "C00_4",
+            "hintText": "",
+            "imageUrl": "1",
+            "__v": 0,
+            "tags": [],
+            "userAnsweredList": [
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-03-20T10:04:41.440Z",
+                    "uid": "5c920fa26de3ab1f22132e05",
+                    "_id": "5c9210396de3ab1f22132e3f"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-04-18T08:40:50.031Z",
+                    "uid": "5bf54d77547a6d4676c8fb2e",
+                    "_id": "5cb83812bf8fa227056dd067"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-05-02T05:08:36.613Z",
+                    "uid": "5cb5714ab613b63608c8ce1f",
+                    "_id": "5cca7b54620e459f098725a9"
+                }
+            ],
+            "userReportedList": []
+        },
+        {
+            "_id": "5c89f2154b7e8310729a88ce",
+            "timestamp": "2019-03-14T06:17:57.465Z",
+            "text": "React relies heavily on HTML5",
+            "correctAnswere": "NO",
+            "level": "L00_1",
+            "category": "C00_4",
+            "hintText": "",
+            "imageUrl": "1",
+            "__v": 0,
+            "tags": [],
+            "userAnsweredList": [
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-03-20T10:04:43.787Z",
+                    "uid": "5c920fa26de3ab1f22132e05",
+                    "_id": "5c92103b6de3ab1f22132e43"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-04-18T08:40:58.719Z",
+                    "uid": "5bf54d77547a6d4676c8fb2e",
+                    "_id": "5cb8381abf8fa227056dd06a"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-05-02T05:08:40.173Z",
+                    "uid": "5cb5714ab613b63608c8ce1f",
+                    "_id": "5cca7b58620e459f098725ac"
+                }
+            ],
+            "userReportedList": []
+        },
+        {
+            "_id": "5c89f2154b7e8310729a88cf",
+            "timestamp": "2019-03-14T06:17:57.465Z",
+            "text": "React is a javascript Library",
+            "correctAnswere": "YES",
+            "level": "L00_1",
+            "category": "C00_4",
+            "hintText": "",
+            "imageUrl": "1",
+            "__v": 0,
+            "tags": [],
+            "userAnsweredList": [
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-03-20T10:04:45.938Z",
+                    "uid": "5c920fa26de3ab1f22132e05",
+                    "_id": "5c92103d6de3ab1f22132e47"
+                },
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-04-18T08:41:01.465Z",
+                    "uid": "5bf54d77547a6d4676c8fb2e",
+                    "_id": "5cb8381dbf8fa227056dd06d"
+                },
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-05-02T05:08:42.442Z",
+                    "uid": "5cb5714ab613b63608c8ce1f",
+                    "_id": "5cca7b5a620e459f098725af"
+                }
+            ],
+            "userReportedList": []
+        },
+        {
+            "_id": "5c89f2154b7e8310729a88d0",
+            "timestamp": "2019-03-14T06:17:57.465Z",
+            "text": "React was developed by Facebook",
+            "correctAnswere": "YES",
+            "level": "L00_1",
+            "category": "C00_4",
+            "hintText": "",
+            "imageUrl": "1",
+            "__v": 0,
+            "tags": [],
+            "userAnsweredList": [
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-03-20T10:04:48.180Z",
+                    "uid": "5c920fa26de3ab1f22132e05",
+                    "_id": "5c9210406de3ab1f22132e48"
+                },
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-04-18T08:41:07.426Z",
+                    "uid": "5bf54d77547a6d4676c8fb2e",
+                    "_id": "5cb83823bf8fa227056dd070"
+                },
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-05-02T05:08:44.609Z",
+                    "uid": "5cb5714ab613b63608c8ce1f",
+                    "_id": "5cca7b5c620e459f098725b2"
+                }
+            ],
+            "userReportedList": []
+        },
+        {
+            "_id": "5c89f2154b7e8310729a88d1",
+            "timestamp": "2019-03-14T06:17:57.465Z",
+            "text": "Fetch and Pull both are same in git",
+            "correctAnswere": "NO",
+            "level": "L00_1",
+            "category": "C00_1",
+            "hintText": "",
+            "imageUrl": "1",
+            "__v": 0,
+            "tags": [],
+            "userAnsweredList": [
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-03-25T06:29:00.219Z",
+                    "uid": "5c65474adf0b88524bbddefc",
+                    "_id": "5c98752cbd3b8867423cc1ea"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-04-03T10:45:36.429Z",
+                    "uid": "5ca34d03ca5b911a3b9a0122",
+                    "_id": "5ca48ed07ca0b5c937e1dc5c"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-04-18T08:41:11.861Z",
+                    "uid": "5bf54d77547a6d4676c8fb2e",
+                    "_id": "5cb83827bf8fa227056dd073"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-05-06T09:08:23.459Z",
+                    "uid": "5cb5714ab613b63608c8ce1f",
+                    "_id": "5ccff9877e22fe8c72be1a07"
+                }
+            ],
+            "userReportedList": []
+        },
+        {
+            "_id": "5c89f2154b7e8310729a88d2",
+            "timestamp": "2019-03-14T06:17:57.465Z",
+            "text": "Context Switching is allowed only in multi processor CPU",
+            "correctAnswere": "NO",
+            "level": "L00_1",
+            "category": "C00_1",
+            "hintText": "",
+            "imageUrl": "1",
+            "__v": 0,
+            "tags": [],
+            "userAnsweredList": [
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-03-25T06:29:01.989Z",
+                    "uid": "5c65474adf0b88524bbddefc",
+                    "_id": "5c98752dbd3b8867423cc1ed"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-04-03T10:45:38.445Z",
+                    "uid": "5ca34d03ca5b911a3b9a0122",
+                    "_id": "5ca48ed27ca0b5c937e1dc5f"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-04-18T08:41:14.411Z",
+                    "uid": "5bf54d77547a6d4676c8fb2e",
+                    "_id": "5cb8382abf8fa227056dd076"
+                },
+                {
+                    "answer": "NO",
+                    "timestamp": "2019-05-06T09:08:42.831Z",
+                    "uid": "5cb5714ab613b63608c8ce1f",
+                    "_id": "5ccff99a7e22fe8c72be1a08"
+                }
+            ],
+            "userReportedList": []
+        },
+        {
+            "_id": "5c89f2154b7e8310729a88d3",
+            "timestamp": "2019-03-14T06:17:57.465Z",
+            "text": "A thread generally ocupies lesser memory than a thread",
+            "correctAnswere": "YES",
+            "level": "L00_1",
+            "category": "C00_1",
+            "hintText": "",
+            "imageUrl": "1",
+            "__v": 0,
+            "tags": [],
+            "userAnsweredList": [
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-03-25T06:29:04.171Z",
+                    "uid": "5c65474adf0b88524bbddefc",
+                    "_id": "5c987530bd3b8867423cc1f0"
+                },
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-04-03T10:52:32.654Z",
+                    "uid": "5ca34d03ca5b911a3b9a0122",
+                    "_id": "5ca49070a7ef512b3822ddaf"
+                },
+                {
+                    "answer": "YES",
+                    "timestamp": "2019-05-06T09:08:45.122Z",
+                    "uid": "5cb5714ab613b63608c8ce1f",
+                    "_id": "5ccff99d7e22fe8c72be1a0b"
+                }
+            ],
+            "userReportedList": []
+        }
+    ]
+}
